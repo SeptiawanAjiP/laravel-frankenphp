@@ -1,61 +1,61 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# ⚙️ E-Module Lengkap FrankenPHP — Dari Pemula Sampai Deploy ke VPS
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+![FrankenPHP Tutorial](https://admin.dewakoding.com/storage/01JWF1PEEX6WZP3WTA8840PVQM.jpeg)
 
-## About Laravel
+**E-Module ini dirancang khusus untuk pemula** yang ingin mempelajari **FrankenPHP** — web server modern yang menggabungkan **Caddy** dan **PHP** dalam satu binary yang ringan dan efisien.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Tanpa perlu repot mengatur **Nginx**, **Apache**, atau **PHP-FPM**, FrankenPHP memungkinkan Anda menjalankan aplikasi PHP dengan performa tinggi dan kemudahan deployment.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+---
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## 📘 Apa Saja yang Akan Dipelajari?
 
-## Learning Laravel
+### 1. Pengenalan Lengkap FrankenPHP
+- Apa itu FrankenPHP dan mengapa ia revolusioner?
+- Perbandingan dengan server tradisional seperti Apache, Nginx + PHP-FPM.
+- Kelebihan utama: performa, kemudahan deployment, dan fleksibilitas.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### 2. Cara Install FrankenPHP di Semua OS
+- Instalasi di macOS, Linux (Ubuntu/Debian), dan Windows WSL.
+- Cara cek versi, path, dan verifikasi instalasi berhasil.
+- Tips troubleshooting saat instalasi.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+### 3. Menjalankan File PHP Sederhana
+- Membuat dan men-deploy file PHP pertama Anda dengan FrankenPHP.
+- Melakukan konfigurasi `Caddyfile`.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### 4. Implementasi FrankenPHP di Project Laravel
+- Menjalankan Laravel menggunakan FrankenPHP secara lokal.
+- Dukungan untuk Laravel Octane.
 
-## Laravel Sponsors
+### 5. Perbandingan Performa Apache vs FrankenPHP
+- Melakukan benchmarking dan performa test.
+- Analisis perbedaan kecepatan dan efisiensi pada project Laravel.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+### 6. Deploy ke VPS
+- Panduan step-by-step untuk deploy FrankenPHP ke VPS (Ubuntu).
+- Praktik langsung, konfigurasi server, dan testing.
 
-### Premium Partners
+---
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+## 💡 Keunggulan E-Module Ini
 
-## Contributing
+✅ Materi praktikal berbasis proyek nyata  
+✅ Cocok untuk pemula tanpa pengalaman DevOps  
+✅ Penjelasan teknis mudah dipahami  
+✅ Disertai screen capture & contoh kode  
+✅ Dapat langsung diterapkan ke produksi  
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+---
 
-## Code of Conduct
+## 🚀 Siapa yang Cocok Mengikuti?
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- Developer PHP atau Laravel yang ingin efisiensi deployment
+- Pengguna shared hosting yang ingin migrasi ke VPS
+- Siapa pun yang ingin menjelajahi web server modern
 
-## Security Vulnerabilities
+---
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## 🔗 Akses Tutorial Lengkap
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+👉 [Klik di sini untuk mengakses tutorial lengkap FrankenPHP](https://dewakoding.com/tutorial/tutorial-lengkap-frankenphp-dari-pemula-sampai-deploy-vps)
